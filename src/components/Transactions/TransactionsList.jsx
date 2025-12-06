@@ -1,4 +1,3 @@
-import React from 'react'
 import TransactionItem from './TransactionItem.jsx' 
 export default function TransactionsList({ items, onDelete, onUpdate }) {
   // ...existing code from ExpensesList.jsx, will be migrated

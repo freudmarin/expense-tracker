@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import { useEffect, useState } from 'react'
 import Input from '../UI/Input'
 import Button from '../UI/Button'
 import { fetchCategories } from '../../utils/api'

@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import TransactionForm from './TransactionForm'
 
 export default function NewTransaction({ onAdd }){

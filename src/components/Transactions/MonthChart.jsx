@@ -1,4 +1,3 @@
-import React from 'react'
 import { ResponsiveContainer, BarChart, CartesianGrid, XAxis, YAxis, Tooltip, Legend, Bar } from 'recharts';
 
 export default function MonthChart({ items, totalIncome = 0, totalExpenses = 0 }) {
